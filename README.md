@@ -1,7 +1,7 @@
 # My_portfolio
 
 
-# live preview link
+# View the app (Hosted on Firebase):
 https://www.majdiessid.tk/
 
 
